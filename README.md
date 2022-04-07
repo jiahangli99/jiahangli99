@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiahangli99&label=Profile%20views&color=0e75b6&style=flat" alt="jiahangli99" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](www.jiahangli.com)
+- 🔭 I’m currently working on my Portfolio
 
-- 👨‍💻 All of my projects are available at [jiahangli.com](www.jiahangli.com)
+- 👨‍💻 All of my projects are available at (www.jiahangli.com)
 
 - 📫 How to reach me **liabraham.1999@gmail.com**
 
