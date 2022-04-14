@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiahangli99&label=Profile%20views&color=0e75b6&style=flat" alt="jiahangli99" /> </p>
 
-- 🔭 I’m currently working on my Portfolio (www.jiahangli.com)
+- 🔭 I’m currently working on my Portfolio (www.jiahangli.com) and Recipe App
 
 - 👨‍💻 All of my projects are available at (www.jiahangli.com)
 
